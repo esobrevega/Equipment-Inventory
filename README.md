@@ -1,14 +1,13 @@
-# Equipment-Inventory
-# STMC RT Equipment Inventory System
+# Equipment Inventory System
 
 ## Overview
-The **STMC RT Equipment Inventory System** is an Excel-based tracking system enhanced with **VBA macros** to facilitate equipment logging, monitoring, and searching. The system helps users efficiently manage medical equipment data, search for records, and generate reports.
+The **Equipment Inventory System** is an Excel-based tracking system enhanced with **VBA macros** to facilitate equipment logging, monitoring, and searching. The system helps users efficiently manage medical equipment data, search for records, and generate reports.
 
 ## File Structure
 ### **Excel Sheets**
-- **STMC EQUIPMENT INPUT** – Allows users to input new equipment data.
+- **EQUIPMENT INPUT** – Allows users to input new equipment data.
 - **EQUIPMENT MONITORING DATA** – Stores and tracks recorded equipment details.
-- **STMC EQUIPMENT SEARCH** – Provides search functionality for equipment.
+- **EQUIPMENT SEARCH** – Provides search functionality for equipment.
 - **LOCATION** – Maintains location data for different equipment.
 - **EQUIPMENT INPUT** – Alternative data entry sheet.
 - **FORMULA** – Contains key formulas for calculations.
@@ -90,12 +89,12 @@ The **STMC RT Equipment Inventory System** is an Excel-based tracking system enh
 
 ## How to Use the System
 1. **Adding Equipment:**
-   - Enter details in **STMC EQUIPMENT INPUT**.
+   - Enter details in **EQUIPMENT INPUT**.
    - Click the **Log Equipment** button.
    - Data will be stored and sorted automatically.
 
 2. **Searching for Equipment:**
-   - Go to **STMC EQUIPMENT SEARCH**.
+   - Go to **EQUIPMENT SEARCH**.
    - Use search filters (Reference Number, Brand, Location, etc.).
    - Results will update dynamically.
 
